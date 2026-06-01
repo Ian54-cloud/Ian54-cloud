@@ -1,7 +1,6 @@
 ## Hi there 👋
 # Ian Bethe — Backend Software Engineer
-Backend-focused Software Engineering student building Java and Spring Boot applications.
-Here are some ideas to get you started:
+Junior Backend-focused Software Engineering student building Java and Spring Boot applications and looking for an internship.
 
 ## Projects
 
